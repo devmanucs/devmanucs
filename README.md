@@ -55,7 +55,6 @@
 <div>
 <img aligtn="right "src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR5OTd5aXhtdHRlYzV0OGZpbHFqandnNTgxMjZpdzZtcWoyZjEzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1A7ETzpIvs7GzWOYYC/giphy.webp" alt="Baby Yoda" height="150">
 
-  ![Snake animation](https://github.com/devmanucs/devmanucs/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
