@@ -1,6 +1,6 @@
 ## Olá, eu sou a Manu! 
 
-- 🔭 Atualmente trabalho com front-end e UI/UX designer, como função principal, desenvolvedora de telas.
+- 🔭 Atualmente trabalho com front-end e UI/UX designer, como função principal, desenvolvimento de telas.
 
 ##
 
