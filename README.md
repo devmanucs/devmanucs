@@ -7,13 +7,13 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Sou uma desenvolvedora front-end com paixão por design e tecnologia. Gosto de criar interfaces que encantam, resolvem problemas e entregam resultados. Além do mundo web, também atuo com **C em projetos de robótica**, unindo software e hardware em soluções inteligentes e interativas.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,17 +31,17 @@ Sou uma desenvolvedora front-end com paixão por design e tecnologia. Gosto de c
 
 ## 🚀 O que eu posso fazer?
 
-- 👩‍💻 Desenvolvimento de interfaces modernas e responsivas
-- 🎨 Design de UI/UX com foco em conversão e usabilidade
-- ⚡ Aplicações web rápidas e otimizadas
-- 🔄 Manutenção e evolução de projetos existentes
-- 🤖 Programação em C para projetos de robótica e embarcados
-- 🛰️ Prototipagem de soluções tecnológicas com foco educacional e científico
-- 📱 Criação de landing pages e dashboards interativos
+-  Desenvolvimento de interfaces modernas e responsivas
+-  Design de UI/UX com foco em conversão e usabilidade, tanto web como mobile
+-  Aplicações web rápidas e otimizadas
+-  Manutenção e evolução de projetos existentes
+-  Programação em C para projetos de robótica e embarcados
+-  Prototipagem de soluções tecnológicas com foco educacional e científico
+-  Criação de landing pages e dashboards interativos
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+##  Minhas estatísticas no GitHub
 
 <div align="center">
   <picture>
