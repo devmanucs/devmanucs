@@ -50,9 +50,6 @@ Estou disponível para projetos e adoraria ajudar a tirar suas ideias do papel, 
   <a href = "mailto:manuhcsantos@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.workana.com/freelancer/88943105050c45e5d59c67ea7ccdb084" target="_blank">
-    <img src="https://img.shields.io/badge/-Workana-%2300AEEF?style=for-the-badge&logo=workana&logoColor=white" target="_blank">
-  </a>
 </div>
 
 <div align="right">
