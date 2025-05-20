@@ -1,11 +1,19 @@
-# Olá, eu sou a Manuella Carvalho! 
-### Front-end Developer & UI/UX Designer
+# 👩‍💻 Olá, eu sou a Manuella Carvalho!
 
-    💡 
- **- Especialista em transformar ideias em interfaces incríveis**  
- **- Crio soluções web com uma boa performance, responsividade e ótima experiência do usuário**  
+### Front-end Developer | UI/UX Designer | Robotic Enthusiast
 
-## Habilidades:
+💡 **Transformo ideias em interfaces incríveis e funcionais, reunindo IoT com sistemas limpos e visualmente agradáveis**  
+🚀 **Desenvolvo soluções web com performance, responsividade e foco total na experiência do usuário**
+
+---
+
+## 🧠 Sobre mim
+
+Sou uma desenvolvedora front-end com paixão por design e tecnologia. Gosto de criar interfaces que encantam, resolvem problemas e entregam resultados. Além do mundo web, também atuo com **C em projetos de robótica**, unindo software e hardware em soluções inteligentes e interativas.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,17 +24,24 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-## O que posso fazer?
+---
+
+## 🚀 O que eu posso fazer?
 
 - 👩‍💻 Desenvolvimento de interfaces modernas e responsivas
 - 🎨 Design de UI/UX com foco em conversão e usabilidade
 - ⚡ Aplicações web rápidas e otimizadas
-- 🔄 Manutenção e melhorias em projetos existentes
-- 🚀 Landing pages que convertem
+- 🔄 Manutenção e evolução de projetos existentes
+- 🤖 Programação em C para projetos de robótica e embarcados
+- 🛰️ Prototipagem de soluções tecnológicas com foco educacional e científico
+- 📱 Criação de landing pages e dashboards interativos
 
-## Minhas estatísticas no GitHub
+---
+
+## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
   <picture>
@@ -39,9 +54,11 @@
   </picture>
 </div>
 
-## Vamos trabalhar juntos?
+---
 
-Estou disponível para projetos e adoraria ajudar a tirar suas ideias do papel, entre em contato pelos seguintes meios: 
+## 🤝 Vamos trabalhar juntos?
+
+Estou disponível para novos projetos e colaborações. Se você tem uma ideia ou desafio, vamos conversar!
 
 <div> 
   <a href="https://www.linkedin.com/in/manuella-carvalho-7663352b0" target="_blank">
@@ -52,6 +69,7 @@ Estou disponível para projetos e adoraria ajudar a tirar suas ideias do papel, 
   </a>
 </div>
 
+---
+
 <div align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR5OTd5aXhtdHRlYzV0OGZpbHFqandnNTgxMjZpdzZtcWoyZjEzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1A7ETzpIvs7GzWOYYC/giphy.webp" alt="Coding" height="150">
-</div>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR5OTd5aXhtdHRlYzV0OGZpbHFqandnNTgxMjZpdzZtcWoyZjEzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1A7ET
