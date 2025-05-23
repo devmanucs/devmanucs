@@ -71,5 +71,6 @@ Estou disponível para novos projetos e colaborações. Se você tem uma ideia o
 
 ---
 
-<div align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR5OTd5aXhtdHRlYzV0OGZpbHFqandnNTgxMjZpdzZtcWoyZjEzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1A7ET
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw3Mzdxc2puM3Z2enMyNW16b3lzNmoza3VodGx2anR5ZXJxYmdoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Ein">
+</p>
