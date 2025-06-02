@@ -1,9 +1,9 @@
-# 👩‍💻 Olá, eu sou a Manuella Carvalho!
+# Olá, eu sou a Manuella Carvalho!
 
 ### Front-end Developer | UI/UX Designer | Robotic Enthusiast
 
-💡 **Transformo ideias em interfaces incríveis e funcionais, reunindo IoT com sistemas limpos e visualmente agradáveis**  
-🚀 **Desenvolvo soluções web com performance, responsividade e foco total na experiência do usuário**
+ **Transformo ideias em interfaces incríveis e funcionais, reunindo IoT com sistemas limpos e visualmente agradáveis**  
+ **Desenvolvo soluções web com performance, responsividade e foco total na experiência do usuário**
 
 ---
 
@@ -29,7 +29,7 @@ Sou uma desenvolvedora front-end com paixão por design e tecnologia. Gosto de c
 
 ---
 
-## 🚀 O que eu posso fazer?
+## O que eu posso fazer?
 
 -  Desenvolvimento de interfaces modernas e responsivas
 -  Design de UI/UX com foco em conversão e usabilidade, tanto web como mobile
@@ -56,7 +56,7 @@ Sou uma desenvolvedora front-end com paixão por design e tecnologia. Gosto de c
 
 ---
 
-## 🤝 Vamos trabalhar juntos?
+## Vamos trabalhar juntos?
 
 Estou disponível para novos projetos e colaborações. Se você tem uma ideia ou desafio, vamos conversar!
 
