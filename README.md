@@ -36,7 +36,6 @@ I’m a front-end developer passionate about design and technology. I love creat
   </picture>
 </div>
 
----
 
 ## What can I do?
 
@@ -52,7 +51,6 @@ I’m a front-end developer passionate about design and technology. I love creat
 
 - 📊 I create interactive dashboards and landing pages
 
----
 
 ##  My Contributions:
 
@@ -61,7 +59,6 @@ I’m a front-end developer passionate about design and technology. I love creat
 </p>
 <br/>
 
----
 
 ## Let’s Work Together?
 
@@ -75,7 +72,5 @@ I'm available for new projects and collaborations. If you have an idea or a chal
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
-
----
 
 
