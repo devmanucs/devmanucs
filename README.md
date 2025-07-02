@@ -14,7 +14,7 @@
 
 I’m a front-end developer passionate about design and technology. I love creating interfaces that captivate users, solve problems, and deliver real results. Beyond the web world, I also work with C language in robotics projects, combining software and hardware to build smart, interactive solutions.
 
-## Tecnologias e Ferramentas
+## Techs and frameworks:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
