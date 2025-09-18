@@ -9,6 +9,7 @@
 **I develop web solutions with high performance, full responsiveness, and a strong focus on user experience**
 
 <br/>
+<br/>
 
 ## About me
 
