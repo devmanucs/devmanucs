@@ -31,6 +31,13 @@ I’m a front-end developer passionate about design and technology. I love creat
 
 <br/>
 
+<div align="left">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devmanucs&layout=compact&theme=radical" media="(prefers-color-scheme: dark)" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmanucs&layout=compact" />
+  </picture>
+</div>
+
 ## What can I do?
 
 - 💻 I build modern, responsive and user-focused interfaces for web and mobile
