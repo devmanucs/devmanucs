@@ -5,7 +5,7 @@
 
 ### Front-end Developer | UI/UX Designer | Robotic Enthusiast
 
-**Turn ideas into amazing, functional interfaces by combining IoT with clean, visually appealing systems**
+**Turn ideas into amazing, functional interfaces**
 **I develop web solutions with high performance, full responsiveness, and a strong focus on user experience**
 
 <br/>
@@ -13,7 +13,7 @@
 
 ## About me
 
-I’m a front-end developer passionate about design and technology. I love creating interfaces that captivate users, solve problems, and deliver real results. Beyond the web world, I also work with C language in robotics projects, combining software and hardware to build smart, interactive solutions.
+I’m a front-end developer passionate about design and technology. I love creating interfaces that captivate users, solve problems, and deliver real results.
 
 ## Techs and frameworks:
 
@@ -30,21 +30,6 @@ I’m a front-end developer passionate about design and technology. I love creat
 </div>
 
 <br/>
-
-## What can I do?
-
-- 💻 I build modern, responsive and user-focused interfaces for web and mobile
-
-- 🎨 I design UI/UX experiences focused on usability and conversion
-
-- 🚀 I develop fast, optimized and scalable web applications
-
-- 🔧 I work with C programming for robotics and embedded systems projects
-
-- 🛠️ I prototype smart tech solutions with educational and scientific purposes
-
-- 📊 I create interactive dashboards and landing pages
-
 
 ##  My Contributions:
 
