@@ -1,15 +1,12 @@
 # Hello, I'm Manu!
 
-<img align ="right" alt="coding" width = "500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjEyc3Y1Y2s4NGpreW84N2oydjYyZzVoam1zcXVudGtkbHQycXh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Ein">
+<img align ="right" alt="coding" width = "250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjEyc3Y1Y2s4NGpreW84N2oydjYyZzVoam1zcXVudGtkbHQycXh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Ein">
 <br>
 
 ### Front-end Developer | UI/UX Designer | Robotic Enthusiast
 
 **Turn ideas into amazing, functional interfaces**
 **I develop web solutions with high performance, full responsiveness, and a strong focus on user experience**
-
-<br/>
-<br/>
 
 ## About me
 
