@@ -1,44 +1,123 @@
-# Hello, I'm Manu!
+<div align="center">
 
-<img align ="right" alt="coding" width = "250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjEyc3Y1Y2s4NGpreW84N2oydjYyZzVoam1zcXVudGtkbHQycXh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Ein">
-<br>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:1C0F3F,50:6B3FA0,100:C4A8E0&text=Manuella%20Carvalho&reversal=false&fontColor=F8F4EC&animation=fadeIn&fontSize=52&fontAlignY=38&desc=Front-end%20Developer%20·%20UI/UX%20Designer&descSize=18&descAlignY=58" width="100%"/>
 
-### Front-end Developer | UI/UX Designer | Robotic Enthusiast
-
-**Turn ideas into amazing, functional interfaces**
-**I develop web solutions with high performance, full responsiveness, and a strong focus on user experience**
-
-## About me
-
-I’m a front-end developer passionate about design and technology. I love creating interfaces that captivate users, solve problems, and deliver real results.
-
-## Techs and frameworks:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
 <br/>
 
-## Let’s Work Together?
+<div align="center">
 
-I'm available for new projects and collaborations. If you have an idea or a challenge, let’s talk!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+interfaces+incriveis;Apaixonada+por+design+e+tecnologia;Foco+em+UX+e+performance;Vamos+construir+algo+juntos%3F)](https://git.io/typing-svg)
 
-<div> 
-  <a href="https://www.linkedin.com/in/manuella-carvalho-7663352b0" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:manuhcsantos@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
 </div>
 
+<br/>
 
+---
+
+## Sobre mim
+
+```typescript
+const manu = {
+ role: "Front-end Developer & UI/UX Designer",
+ paixao: "Criar interfaces que encantam e resolvem problemas reais",
+ foco: ["Experiência do Usuário", "Performance Web", "Design Systems"],
+ atualmente: "Aberta a novos projetos e colaborações ",
+ curiosidade: "Robótica entusiasta nas horas vagas ",
+};
+```
+
+<br/>
+
+Sou uma desenvolvedora front-end apaixonada por design e tecnologia. Acredito que **código bem escrito e design cuidadoso** andam de mãos dadas — e é essa junção que entrego em cada projeto. Meu trabalho vai desde o pixel perfeito até a interação mais suave, sempre com foco em **resultados reais para o usuário**.
+
+<br/>
+
+---
+
+## Tecnologias & Ferramentas
+
+<div align="center">
+
+### Front-end
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Design & Estilo
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### Outros
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmanucs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmanucs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=devmanucs&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+---
+
+## O que eu entrego
+
+<div align="center">
+
+| Interfaces Responsivas | Alta Performance | Design System | Foco em UX |
+|:---:|:---:|:---:|:---:|
+| Layout pixel-perfect em qualquer dispositivo | Código otimizado e carregamento rápido | Componentes escaláveis e consistentes | Experiências que os usuários adoram |
+
+</div>
+
+<br/>
+
+---
+
+## Vamos Trabalhar Juntos?
+
+Estou disponível para **novos projetos**, **freelances** e **colaborações**!
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuella-carvalho-7663352b0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuhcsantos@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=devmanucs&color=A78BFA&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Profile views"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A8E0,50:6B3FA0,100:1C0F3F&height=120&section=footer" width="100%"/>
