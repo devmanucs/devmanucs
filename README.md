@@ -28,14 +28,6 @@ I’m a front-end developer passionate about design and technology. I love creat
 
 <br/>
 
-##  My Contributions:
-
- <p align="center">
-  <img src ="https://raw.githubusercontent.com/JulianoL13/JulianoL13/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
-</p>
-<br/>
-
-
 ## Let’s Work Together?
 
 I'm available for new projects and collaborations. If you have an idea or a challenge, let’s talk!
