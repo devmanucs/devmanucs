@@ -1,7 +1,10 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:1C0F3F,50:6B3FA0,100:C4A8E0&text=Manuella%20Carvalho&reversal=false&fontColor=F8F4EC&animation=fadeIn&fontSize=52&fontAlignY=38&desc=Front-end%20Developer%20·%20UI/UX%20Designer&descSize=18&descAlignY=58" width="100%"/>
-
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:1C0F3F,50:6B3FA0,100:C4A8E0&text=Manuella%20Carvalho&reversal=false&fontColor=F8F4EC&fontSize=52&fontAlignY=50&desc=Front-end%20Developer%20%C2%B7%20UI%2FUX%20Designer&descSize=18&descAlignY=66&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:1C0F3F,50:6B3FA0,100:C4A8E0&text=Manuella%20Carvalho&reversal=false&fontColor=6B3FA0&fontSize=52&fontAlignY=50&desc=Front-end%20Developer%20%C2%B7%20UI%2FUX%20Designer&descSize=18&descAlignY=66&section=header" width="100%"/>
+</picture>"
+ 
 </div>
 
 <br/>
