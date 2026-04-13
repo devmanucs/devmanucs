@@ -6,31 +6,7 @@
 
 <br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+interfaces+incriveis;Apaixonada+por+design+e+tecnologia;Foco+em+UX+e+performance;Vamos+construir+algo+juntos%3F)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
----
-
-## Sobre mim
-
-```typescript
-const manu = {
- role: "Front-end Developer & UI/UX Designer",
- paixao: "Criar interfaces que encantam e resolvem problemas reais",
- foco: ["Experiência do Usuário", "Performance Web", "Design Systems"],
- atualmente: "Aberta a novos projetos e colaborações ",
- curiosidade: "Robótica entusiasta nas horas vagas ",
-};
-```
-
-<br/>
-
-Sou uma desenvolvedora front-end apaixonada por design e tecnologia. Acredito que **código bem escrito e design cuidadoso** andam de mãos dadas — e é essa junção que entrego em cada projeto. Meu trabalho vai desde o pixel perfeito até a interação mais suave, sempre com foco em **resultados reais para o usuário**.
+Sou uma desenvolvedora front-end apaixonada por design e tecnologia. Acredito que **código e design cuidadoso** andam de mãos dadas — e é essa junção que entrego em cada projeto. Meu trabalho vai desde o pixel perfeito até a interação mais suave, sempre com foco em **resultados reais para o usuário**.
 
 <br/>
 
@@ -38,7 +14,7 @@ Sou uma desenvolvedora front-end apaixonada por design e tecnologia. Acredito qu
 
 ## Tecnologias & Ferramentas
 
-<div align="center">
+<div align="left">
 
 ### Front-end
 
@@ -65,35 +41,11 @@ Sou uma desenvolvedora front-end apaixonada por design e tecnologia. Acredito qu
 
 <br/>
 
----
-
 ## GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmanucs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmanucs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
+<div align="left">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devmanucs&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
----
-
-## O que eu entrego
-
-<div align="center">
-
-| Interfaces Responsivas | Alta Performance | Design System | Foco em UX |
-|:---:|:---:|:---:|:---:|
-| Layout pixel-perfect em qualquer dispositivo | Código otimizado e carregamento rápido | Componentes escaláveis e consistentes | Experiências que os usuários adoram |
 
 </div>
 
