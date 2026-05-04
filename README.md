@@ -10,7 +10,7 @@ Sou uma desenvolvedora front-end apaixonada por design e tecnologia. Acredito qu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=C4A8E0)](https://www.linkedin.com/in/manuella-carvalho-7663352b0)
 [![Gmail](https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=C4A8E0)](mailto:manuhcsantos@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=devmanucs&color=A78BFA&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=devmanucs&color=C4A8E0&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Profile views"/>
 
 <br/>
 
